@@ -1,0 +1,7 @@
+{
+  "name": "bhilweb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
